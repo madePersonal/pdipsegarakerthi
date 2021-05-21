@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'bali_simbar_dj_blackregular';
+    src: url('../fonts/balisdbl_0.ttf') format('ttf'),
+        url('../fonts/balisdbl_0-webfont.woff2') format('woff2'),
+        url('../fonts/balisdbl_0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bali_simbar_djbold';
+    src: url('../fonts/balisdb_0.ttf') format('ttf'),
+        url('../fonts/balisdb_0-webfont.woff2') format('woff2'),
+        url('../fonts/balisdb_0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'bali_simbar_djregular';
+    src: url('../fonts/balisdn_0.ttf') format('ttf'),
+        url('../fonts/balisdn_0-webfont.woff2') format('woff2'),
+        url('../fonts/balisdn_0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
